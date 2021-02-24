@@ -1,0 +1,13 @@
+C:\Users\Fusionstak\source\repos\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.exe
+C:\Users\Fusionstak\source\repos\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.deps.json
+C:\Users\Fusionstak\source\repos\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.json
+C:\Users\Fusionstak\source\repos\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.dev.json
+C:\Users\Fusionstak\source\repos\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.dll
+C:\Users\Fusionstak\source\repos\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.pdb
+C:\Users\Fusionstak\source\repos\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.csprojAssemblyReference.cache
+C:\Users\Fusionstak\source\repos\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfoInputs.cache
+C:\Users\Fusionstak\source\repos\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfo.cs
+C:\Users\Fusionstak\source\repos\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.csproj.CoreCompileInputs.cache
+C:\Users\Fusionstak\source\repos\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.dll
+C:\Users\Fusionstak\source\repos\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.pdb
+C:\Users\Fusionstak\source\repos\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.genruntimeconfig.cache
